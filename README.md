@@ -68,6 +68,6 @@ A relational database implementation for a University Management System.
 
 ## 🚀 How to Run
 
-1. **Using Backup (`.bak`):** Open **SSMS** $\rightarrow$ Right-click **Databases** $\rightarrow$ **Restore Database** $\rightarrow$ Select `University_Database.bak`.
-2. **Using Script (`.sql`):** Open `University_Database_Script.sql` in **SSMS** $\rightarrow$ Press **`F5`** (`Execute`).
+1. **Using Backup (`.bak`):** Open **SSMS** --> Right-click **Databases** -->  **Restore Database** --> Select `University_Database.bak`.
+2. **Using Script (`.sql`):** Open `University_Database_Script.sql` in **SSMS** --> Press **`F5`** (`Execute`).
 
